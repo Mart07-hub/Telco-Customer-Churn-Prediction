@@ -1,13 +1,13 @@
 # Telco-Customer-Churn-Prediction
 
-## 📌 Project Overview
+## ML Project Overview
 Customer churn is one of the biggest challenges in the telecom industry. This project uses the **IBM Telco Customer Churn dataset** to predict whether a customer will leave ("Yes") or stay ("No").  
 
 The goal is simple: **turn raw customer data into actionable insights** using machine learning.
 
 ---
 
-## ⚙️ Workflow Stages
+##  Workflow Stages
 1. **Data Loading & Cleaning**  
    - Imported dataset from local `data/` folder  
    - Handled missing values and ensured consistency  
@@ -30,7 +30,7 @@ The goal is simple: **turn raw customer data into actionable insights** using ma
 
 ---
 
-## 📊 Results
+## Results
 | Metric        | Value |
 |---------------|-------|
 | Accuracy      | 0.79  |
@@ -43,5 +43,5 @@ The goal is simple: **turn raw customer data into actionable insights** using ma
 
 ---
 
-## 🛠️ Requirements
+## Requirements
 Dependencies are listed in `requirements.txt`:
